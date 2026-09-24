@@ -3,7 +3,7 @@
 TARGET = bai1_i2c_ssd1306
 BUILD_DIR = build
 
-CUBE = $(HOME)/stm32-libs/STM32CubeF1
+CUBE = ../stm32-libs/STM32CubeF1
 
 C_SOURCES = \
 core/src/main.c \

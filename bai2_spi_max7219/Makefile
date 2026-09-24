@@ -3,7 +3,7 @@
 TARGET = bai2_spi_max7219
 BUILD_DIR = build
 
-CUBE = $(HOME)/stm32-libs/STM32CubeF1
+CUBE = ../stm32-libs/STM32CubeF1
 
 C_SOURCES = \
 core/src/main.c \
